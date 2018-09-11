@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Pavel</first_name>
+	<last_name>Markov</last_name>
+	<phone_number>08951231234</phone_number>
+	<notes>Gotta love UI</notes>
+</contact>
+<contact>
+	<first_name>Svetlin</first_name>
+	<last_name>Nakov</last_name>
+	<phone_number>08913244223</phone_number>
+	<notes>Softuni is da best</notes>
+</contact>
+<contact>
+	<first_name>Vesko</first_name>
+	<last_name>Marinov</last_name>
+	<phone_number>08912353413</phone_number>
+	<notes>Istinskoto vino e gorchivo</notes>
+</contact>
+</contacts>
